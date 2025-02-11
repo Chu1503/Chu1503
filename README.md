@@ -18,7 +18,7 @@
  <h3>Programming Languages</h3>
  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Badge](https://camo.githubusercontent.com/2f17a160993c6bfd1c87f2be94eaa0cf198cb91b95fa7db7b58d009fa045d63a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f656d626564646564253230632d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465)
+![Badge](https://img.shields.io/badge/embedded%20c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![R Badge](https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=R&logoColor=white)
@@ -28,7 +28,7 @@
  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js Badge](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS Badge](https://camo.githubusercontent.com/3e95ea8d3f3a5531df2dfa6e3d51ff0a9f2241af31d3d3b30aaed7b5b887319f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e642d2532333065313833332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e64637373266c6f676f436f6c6f723d7768697465)
+![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind-%230e1833.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Flutter Badge](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
