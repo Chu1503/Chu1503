@@ -11,7 +11,7 @@
   
  <h2 align="center">About Me</h2>
   
- <p align="center">I'm a final year student at VIT, Vellore, with a passion for data analytics, machine learning, and deep learning. I also enjoy creating interactive dashboards working on front-end development. Always eager to learn and take on new challenges!</p>
+ <p align="center">I'm a final year student at VIT, Vellore, with a passion for data analytics, machine learning, and deep learning. I also enjoy creating interactive dashboards and working on front-end development. Always eager to learn and take on new challenges!</p>
  
  <h2 align="center">Technology Used</h2>
  
