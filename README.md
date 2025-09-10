@@ -8,10 +8,12 @@
   <a href="shivakash2003@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  
- <h2 align="center">About Me</h2>
-  
- <p align="center">I'm a final year student at VIT, Vellore, with a passion for data analytics, machine learning, and deep learning. I also enjoy creating interactive dashboards and working on front-end development. Always eager to learn and take on new challenges!</p>
+<!--
+<h2 align="center">About Me</h2>
+--
+<p align="center">I'm a final year student at VIT, Vellore, with a passion for data analytics, machine learning, and deep learning. I also enjoy creating interactive dashboards and working on front-end development. Always eager to learn and take on new challenges!</p>
+-->
+
  
  <h2 align="center">Technology Used</h2>
  
@@ -44,6 +46,7 @@
 ![Power BI Badge](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
